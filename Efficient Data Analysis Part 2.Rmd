@@ -7,7 +7,6 @@ output: pdf_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-setwd("C:/Users/cliftonl/Desktop/Data Science/R/DataQuest/04. Specialized Data Processing in R")
 
 library(Amelia)
 library(lubridate)
